@@ -1,0 +1,23 @@
+{
+  "name": "walkover-feather",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aayushjain-code/WalkOver-Space-FeatherJs-TypeScript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aayushjain-code/WalkOver-Space-FeatherJs-TypeScript/issues"
+  },
+  "homepage": "https://github.com/Aayushjain-code/WalkOver-Space-FeatherJs-TypeScript#readme",
+  "dependencies": {
+    "@feathersjs/feathers": "^4.5.11"
+  }
+}
